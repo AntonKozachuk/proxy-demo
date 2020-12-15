@@ -1,1 +1,1 @@
-/api/*  https://netlify-test.redoc.online/api/:splat  200!
+/api/*  https://netlify-test.redoc.online/developer-portal/:splat  200!
